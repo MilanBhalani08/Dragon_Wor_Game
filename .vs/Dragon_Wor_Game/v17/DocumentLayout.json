@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity Projects\\Dragon_Wor_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D66932D-958B-D6D8-AC5E-DDFDE0AF320B}|Assembly-CSharp.csproj|c:\\unity projects\\dragon_wor_game\\assets\\touch controller\\touchcontrolskit-lite\\content\\firstpersonexample\\scripts\\firstpersonexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D66932D-958B-D6D8-AC5E-DDFDE0AF320B}|Assembly-CSharp.csproj|solutionrelative:assets\\touch controller\\touchcontrolskit-lite\\content\\firstpersonexample\\scripts\\firstpersonexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D66932D-958B-D6D8-AC5E-DDFDE0AF320B}|Assembly-CSharp.csproj|C:\\Unity Projects\\Dragon_Wor_Game\\assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D66932D-958B-D6D8-AC5E-DDFDE0AF320B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "enemy.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Dragon_Wor_Game\\Assets\\script\\enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\enemy.cs",
+              "ToolTip": "C:\\Unity Projects\\Dragon_Wor_Game\\Assets\\script\\enemy.cs",
+              "RelativeToolTip": "Assets\\script\\enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:50:53.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstPersonExample.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Dragon_Wor_Game\\Assets\\touch controller\\TouchControlsKit-Lite\\Content\\FirstPersonExample\\Scripts\\FirstPersonExample.cs",
+              "RelativeDocumentMoniker": "Assets\\touch controller\\TouchControlsKit-Lite\\Content\\FirstPersonExample\\Scripts\\FirstPersonExample.cs",
+              "ToolTip": "C:\\Unity Projects\\Dragon_Wor_Game\\Assets\\touch controller\\TouchControlsKit-Lite\\Content\\FirstPersonExample\\Scripts\\FirstPersonExample.cs",
+              "RelativeToolTip": "Assets\\touch controller\\TouchControlsKit-Lite\\Content\\FirstPersonExample\\Scripts\\FirstPersonExample.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAswA0BAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:49:50.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
